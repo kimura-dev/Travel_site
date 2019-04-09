@@ -51,6 +51,9 @@ body {
   background-repeat: no-repeat;
   min-height: 100vh; }
 
+.logo {
+  height: 3.25rem; }
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
