@@ -1,0 +1,20 @@
+# Exclude build folders
+dist/
+build/
+app/
+
+# Exclude node modules
+node_modules/
+
+# Exclude sass cache files
+.sass-cache/
+*.sassc
+*.scssc
+
+# Exclude log and backup files
+*.log
+*.bkp
+*.backup
+
+# Exclude system bloat
+*.DS_Store
